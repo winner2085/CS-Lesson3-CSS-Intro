@@ -1,4 +1,4 @@
-# Lesson 2.5: Intro to CSS
+# Lesson 2.3: Intro to CSS
 
 ## 🎯 Objectives
 - Understand the purpose and structure of CSS.
