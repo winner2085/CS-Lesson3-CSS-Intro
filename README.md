@@ -1,7 +1,7 @@
 # Lesson 2.3: Intro to CSS
 
 ## 🎯 Objectives
-- Understand the purpose and structure of CSS.
+- Understand the purpose and structure of CSS!
 - Learn how to select and style HTML elements using CSS.
 - Gain hands-on experience with various CSS properties and values.
 
